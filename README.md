@@ -1,7 +1,7 @@
 # Shark Bite
 A NovelAI AI Module. Shark Bite introduces vivid encounters with sharks into your NovelAI story.
 
-Download: [Shark_Bite_Sleeping_Unkalaki_2021.08.23_40](https://github.com/SleepingUnkalaki/shark-bite-nai-module/releases/download/2021.08.23_40/Shark_Bite_SleepingUnkalaki_2021.08.23_40.module)
+Download: [Shark_Bite_Sleeping_Unkalaki_2021.08.23_40.module](https://github.com/SleepingUnkalaki/shark-bite-nai-module/releases/download/2021.08.23_40/Shark_Bite_SleepingUnkalaki_2021.08.23_40.module)
 
 ### Source Material: (4.3 mb, ~1945 steps, 40% coverage)
 - **Title**: Close to Shore; **Author**: Michael Capuzzo; **Genre**: Nonfictional historical thriller
