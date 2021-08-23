@@ -1,5 +1,5 @@
 # Shark Bite
-## A NovelAI Module
+A NovelAI AI Module
 
 ### Source Material: (4.3 mb, ~1945 steps, 40% coverage)
 - **Title**: Close to Shore; **Author**: Michael Capuzzo; **Genre**: Nonfictional historical thriller
