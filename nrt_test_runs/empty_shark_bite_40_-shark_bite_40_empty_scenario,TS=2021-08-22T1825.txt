@@ -1,0 +1,130 @@
+=== Parameters ====================================
+                    Label: shark_bite_40_empty_scenario
+                    Model: 6B-v3
+                   Prefix: Shark Bite 2021.08.22_40
+              Temperature: 0.55
+                MaxLength: 40
+                MinLength: 1
+                     TopK: 140
+                     TopP: 0.9
+         TailFreeSampling: 1
+        RepetitionPenalty: 3.5
+   RepetitionPenaltyRange: 1024
+   RepetitionPenaltySlope: 6.57
+              BadWordsIds: []
+              BanBrackets: true
+                 UseCache: false
+                UseString: false
+           ReturnFullText: false
+            TrimResponses: false
+=== Placeholders ==================================
+=== Prompt ========================================
+***
+
+
+=== Iteration 0     ==============================
+"I'm sorry, I don't know what you're talking about."
+"You heard me. You want to talk to your wife? Go ahead and call her," he said. "We have a number for her at the house in Denton. She's waiting on us there right now. And she knows exactly where we are. So do all of them. They'll be here any minute. This is going to get very interesting, isn't it?" He grinned. "So who wants to go first? Me or you? Or maybe both of us together?"
+The two men stared at each other. Then they turned their heads toward the helicopter landing pad. The chopper had just come into view over the trees. It was an old Sikorsky S-61C with a bullet hole through its nose. A second later, the aircraft settled onto the pad, causing the helipad lights to flash off as if they were trying to blind everyone inside the building.
+A moment later, three figures appeared from behind the helicopter: a man in his midforties wearing khaki pants and a blue blazer; a woman of forty dressed similarly but in jeans instead of slacks; and another young woman whose dark hair fell below her shoulders. All wore black T-shirts that read MURDERER IN THE MAIN FLOOR.
+They moved quickly across the concrete floor and up the stairs, leaving no footprints. When they reached the top step, the older couple stood aside while the younger woman stepped forward and opened the door. Inside the lobby, the air smelled like burnt coffee and wet dog.
+Mitch looked down at his watch. "It's almost four o'clock. Why didn't anyone tell us this would happen so much earlier?"
+"What time did you say the flight left?" asked Ava.
+He checked his watch again. "Four twenty-seven P. M."
+"And how long does it take to fly from New York City to Dallas?"
+"About twelve hours."
+She smiled. "Well, then, my husband and I can make our plane reservation after all."
+At 4:00 p.m., the phone rang in Ava's office. She answered it immediately. "Hello?"
+"Is this Mrs. Cameron?" came a voice she recognized instantly.
+"Yes," replied Ava.
+"This is Dr. Kaelin. Your husband has been brought back to life by the surgeons. He should be conscious shortly. Do you wish to speak with him?"
+"Thank God!" exclaimed Ava. "How is he doing? Is he okay?"
+Kaelin hesitated before answering. "I'm afraid not. He suffered some internal injuries when hewas shot, but the doctors managed to repair most of them. However, he will need extensive plastic surgery on his face, and I believe he may also require bone grafts.
+
+=== Iteration 1     ==============================
+"You're going to be okay," she said. "I'm here, and I'll take care of you."
+He didn't know what he'd do without her.He loved the way she looked at him with those big blue eyes. She was so sweet... and smart. So incredibly sexy that it made his head spin just thinking about it.He wanted more than anything for this girl to love him back. But he couldn't let himself get too close—not until he knew who she really was.The woman in the video had a smile on her face as she stood over the man's body, but O'Connor could see something else there, some kind of darkness behind her eyes.He thought maybe he'd seen it before somewhere, but where?And why did it make him feel like such an idiot?
+O'Connor sat up and took a deep breath.He felt exhausted from all the excitement and adrenaline, but he wasn't ready to go home yet.He needed to find out if the woman in the video had been telling the truth, or if he'd somehow hallucinated everything.He reached into his pocket and pulled out his cell phone. The screen read OUT OF SERVICE.Well, shit! What now?He closed his eyes and tried again. Still no signal.Okay, well, he wouldn't have any luck trying to call anyone anyway. Not unless they were willing to come down here themselves.O'Connor lay back down. He stared at the ceiling, listening to the sound of waves crashing against rocks below.Why am I even worried about these people? They can stay lost forever; it doesn't matter to me.Besides, I've got my own problems to worry about right now.Like finding a way off this island.He rolled onto his side and propped his chin on his hand.What should he do next? Maybe he could try walking along the beach.Maybe he could follow the trail of footprints toward the waterline.But then what? If he left the cave, he might run smack dab into someone coming back from fishing or whatever. And besides,
+
+=== Iteration 2     ==============================
+"I don't know," said Darrow. "It could be a trick."The creature's tentacles had already begun to move, as if it were stretching itself toward them. Its head turned and its eyes locked on the spot where they stood.The thing was trying to reach out with those tentacle arms of its, but couldn't quite make contact. It seemed almost frustrated by that fact.
+Darrow looked back at the others.He saw their faces all twisted in fear and revulsion. They didn't want to see what he would do next.But he knew what needed doing now. He knew how this beast had been created; he'd seen it happen.And he also knew that there was only one way for him to stop it.There was no time left. No more second chances.
+With his free hand, Darrow reached into his jacket pocket. His fingers touched something hard.Something cold. The butt end of a gun. But not just any gun. This one belonged to Jack Morgan.Morgan had died because of the things the creature did.Because of what it represented... and because of who was responsible for creating it.
+Now Darrow pulled the weapon from his coat.He aimed it at the monster's head, squeezing off three shots before dropping the weapon onto the ground beside him. He then drew another pistol from his other pocket, which he pointed at the creature.Then he fired again. And again. Until both guns were empty.
+When the last shot rang out, the creature began to scream.A high-pitched wail unlike anything any human being should have ever produced. It sounded like nothing so much as an animal caught in a trap.And trapped animals always die quickly.
+The sound echoed across the water, reverberating through the caverns below. As soon as it stopped, the sea floor fell silent once again.Everyone stared at each other in silence. Then they heard footsteps coming closer.They came from above. From somewhere up ahead. More than one set.More than two sets.Darrow grabbed hold of Driscoll's arm and pulled her behind him. She resisted, but she followed anyway.
+
+=== Iteration 3     ==============================
+"I'm not sure," he said, "but I think it's a good idea.We'll have to figure out how we're going to get the shark back into its tank."
+"You mean that thing is still alive?"she asked.
+He nodded and then looked at her with his blue eyes. He had such an innocent face. She felt as if they were talking about something really important but also completely ridiculous. "Yes, it's alive," he answered. "It was dead when we pulled it from the water."
+She could see him smiling inside.It made her want to smile too. But she didn't know why.
+"Do you think it will eat us?"she asked.
+"No," he replied immediately."The sharks are very smart. They don't eat people unless there's no other choice. That one probably wouldn't even try because of all the noise we've been making.""Then what do we need to worry about?"
+"Getting it in the boat without being eaten by another shark.And getting away afterward."
+They both turned toward the sound of voices coming closer. It sounded like three or four men.They stopped on the dock, looking down at them. Two of them wore dark suits; the third man wore jeans and a T-shirt. The first two men carried guns.The last one seemed unarmed.
+"What happened here?"the armed man demanded.
+"A shark attacked me," Errol told him.
+"Where did this happen?What time?"
+Errol pointed to the ocean behind him. "About five minutes ago."
+"That's impossible!"the second man exclaimed."There haven't been any reports of a shark attack anywhere around here today! What kind of joke is this?"
+"This isn't funny," the third man added."Are you telling me someone actually saw a great white shark right off our beach?"
+"Well... yes," Errol admitted sheepishly.
+"Who was it?"the second man asked."Me," Errol blurted before realizing who he meant. "I mean, my friend. Me and my sister. We went for a swim."
+"Did anyone else go swimming?"the man in the suit asked."Anyone besides your little sister?"
+"Just my mother and father,"he said quickly."My mom's sick and dad has to work late tonight.
+
+=== Iteration 4     ==============================
+"You know, I'm going to have a hard time forgetting this."
+They were sitting in the captain's chair.The sub was on autopilot and they had been watching an episode of Star Trek: Discovery. "I don't think you'll ever forget it," she said.She turned her head toward him. He looked at his reflection in the window. The sub was moving slowly through the water, its hull vibrating with each pulse from the engines.It was dark outside but there was enough moonlight that he could see her face clearly. She smiled up at him. "It's funny how we're both so different."He glanced down again. There was no doubt about it; he was still very much attracted to her. But now what?They'd spent nearly three days together. What did he really feel for her? He wasn't sure anymore.And yet...he felt like he couldn't stop thinking about her.It was strange, because before he hadn't cared whether or not he would be able to get over her. Now all he wanted was to go back to being friends.But then, when he thought about it, he realized that he didn't want that either. It just seemed easier than dealing with whatever feelings he might actually have for her."What do you mean?" he asked finally.
+"Well, you're always trying to keep your distance from people. You've never let yourself fall in love.""That doesn't make any sense."
+"Maybe it does. Maybe you just can't admit it to yourself."
+"Why are you talking like this is something new?""Because it kind of feels like it is."
+He saw her smile. "I guess it must seem weird to you, me falling in love with someone who isn't even human.""No, I..."He stopped himself. He knew why he liked her. Why else had he invited her into his life?Because he needed company after losing his wife. And he also knew why he didn't want anything more from her.There was no future. They weren't meant for one another.
+"Look,if you're worried about getting hurt, maybe we shouldn't talk anymore," she said.
+"You know what, it's okay," he told her."We don't need to say goodbye right now."
+She nodded. "Good.
+
+=== Iteration 5     ==============================
+"What are you doing?" he demanded. "Why are you here? You're not supposed to be here."
+The man ignored him and looked at the water, his eyes filled with wonder."You know what this is?" he asked in a low voice.
+Dante didn't answer; he just stared at the water as well.The sun had begun its descent into the Pacific Ocean, turning it an intense orange-red that reminded Dante of blood.He wondered how long they would have before darkness fell.
+He was about to ask the man if he knew where their boat was when the man turned around. His face was pale, almost gray,but there was something else there, too—something strange and alien.It made Dante think of another time on Earth...a terrible time, one that seemed like ancient history now.He felt fear rising inside him, but then he saw the other man's mouth move.
+"...Dante," the stranger said, speaking slowly, "I'm going back out tonight."He gestured toward the ocean. "And I want you to come with me."
+"No way!" Dante shouted angrily, shaking his head violently from side to side.He couldn't believe what he'd heard! What kind of sick joke was this?
+But the man only smiled sadly. It wasn't a smile of amusement or humor.The expression looked more like regret than anything else. "They'll find us soon enough, don't worry. We can get away if we hurry."He glanced down at the sea again. "We should go while there's still light."
+His words were slurred, his speech thick and slow. But there was no mistaking them.The man wanted Dante to join him out there. He needed help, maybe even protection. And so far, Dante hadn't seen any sign of anyone coming after them.
+Still, he refused."I won't do it," he told the man. "Go by yourself. I'm staying right here."
+The stranger shook his head.The movement sent dark strands of hair falling across his forehead. Then he reached up and brushed them aside.
+Something clicked deep within Dante's brain.Something snapped shut. For a moment, all sound disappeared. The world went quiet. Everything stopped moving except for the waves lapping against the sides of the boat.Then everything came rushing back. There was noise everywhere: people shouting, sirens blaring, helicopters overhead. It sounded as though everyone was screaming.
+
+=== Iteration 6     ==============================
+"We're going to have a problem, Captain," said the SEAL. "I've got two more men down."
+The captain nodded and looked at his watch. The clock was ticking...very slowly. He could see that now. There were only three minutes left in this battle. It had been an incredible struggle so far, but he knew it wouldn't last much longer.His men would be dead soon—and then they'd come for him.
+He turned back toward the window as another explosion rocked the ship.This time there was no doubt about what caused it: the missile hit the fuel tank just below them, blowing out both windows on the starboard side of the helicopter.A geyser of fire erupted from the wreckage and began spraying into the sky.It seemed like every man aboard was shouting or screaming.
+And then one of the helo's rotors burst into flames.
+"Hang on!" yelled the pilot."Brace yourselves! We're gonna lose power!"
+But even with their emergency backup systems kicking in, the chopper started losing altitude fast.The engine continued to sputter until finally it died completely.They plunged downward, tumbling over each other, trying desperately to keep themselves together.One by one, they lost consciousness.
+Then the Sea King slammed into the water.There was a tremendous splash as its hull broke through the surface.Immediately afterward, there was another eruption of flame as the burning fuselage sank beneath the waves.In seconds, all that remained above the surface were bits of twisted metal and plastic floating around like broken toys.The captain stared at the blackness where the helicopter had sunk.It felt as if his heart had stopped beating when suddenly the sea became calm again.He took off his headset and sat staring blankly ahead.Time passed; he didn't know how long.Finally, though, he heard footsteps approaching him.He glanced up and saw Lieutenant Colonel D'Angelo standing before him.
+D'angelo studied the expressionless face of the captain and shook his head sadly.
+
+=== Iteration 7     ==============================
+The man was in his mid-thirties, tall and well built. He had a lean face with high cheekbones that gave him an almost hawklike appearance.His eyes were dark brown and intense as he stared at her. She felt a chill run through her body.Something about this man made her uneasy.
+"My name is Dr. Gwen Cooper," she said softly. "I'm sorry to have disturbed you."He did not move or answer but continued staring into her eyes. Finally, without saying anything else, he turned away from her and walked back up the steps to the house.She watched him go then hurried down the porch stairs and headed toward her car.As soon as she got inside, she started the engine and pulled out of the driveway.When she reached the road leading to town, she looked over at the old farmhouse again.There was no sign of movement there now except for some birds flying across the sky above it.It seemed like they'd been gone forever...asif nothing had ever happened there.But something definitely had.A terrible thing.
+Chapter 4
+Eli woke slowly.His head throbbed with pain. The sound of voices drifted through the bedroom walls. He knew what time it was by looking at his watch on top of the dresser: 3:30 A.M.Elisha's alarm clock was set to wake her two hours before he normally went off duty. His shift didn't end until eight o'clock.That meant he'd slept only four hours—not nearly enough considering how much work he still had ahead of him today.
+
+=== Iteration 8     ==============================
+"I don't know what happened," he said. "But I think it's best we all stay here."He looked at the woman, who was still sitting in the chair where she had been before. She seemed to be having trouble breathing and her eyes were rolling back into her head.She turned toward him and whispered something that sounded like a prayer. He didn't understand it but decided not to ask questions. Instead, he pulled his cell phone from his pocket.The screen showed an incoming call.
+It was Dr. Stonebrook.
+"What is it?"
+Stonebrook told him about the attack on their base camp by unknown forces.The situation had become worse since then. They had lost contact with several of the other teams they'd sent out for supplies. And there were reports coming in from some of the villages along the coast:people being killed or disappearing without trace. The only thing common among them was the fact that everyone involved spoke Spanish.They needed help. More than anything else right now, they needed intelligence. There was no way to get any information from these people unless someone could speak their language.And speaking their language would mean talking to one of the creatures.
+"You're sure you can handle this alone?" asked Alonzo."We've got two injured men and a couple more women down. We need medical attention."
+"No," said Stonebrook. "This isn't your problem anymore. You should go home."Alonzo felt helpless. He knew how stubborn his father could be when he wanted to do something.But if Stonebrook wasn't going to send anyone after them, why bother trying? They couldn't even find the place where the creature had taken refuge...There was another voice over the line. It belonged to a man named Benjy Davis.He worked as an assistant director at the CDC.His job was to coordinate efforts between various government agencies. But he was also a former Navy SEAL.A few years ago, he'd helped rescue survivors from a plane crash off the coast of Florida.He remembered seeing a photograph of a large sharklike animal that attacked the plane.
+
+=== Iteration 9     ==============================
+"What's going on?" The voice came from behind them. They turned to see a man in an orange jumpsuit standing there, looking at the water with his hands clasped together nervously. "Are you okay? You look like shit."
+Avery looked up at him and said nothing. He felt so tired that he wanted only to sleep for days.His head was pounding; it had been doing this since they'd left the beach house. Maybe if he could just get back inside...The guy looked down at Avery, then glanced over at the woman who stood beside her husband. "Who are these people?""We're your neighbors," she replied, still staring out into the ocean. She wore sunglasses despite the fact that it wasn't even noon yet."I'm Emma Miller and my husband is Bill. We live next door."She pointed toward the other side of their cul-de-sac. "You know where we live."Billstared at them blankly, as though he didn't understand what she meant. His eyes were bloodshot, red rimmed, and swollen shut.Emma put a hand on his shoulder, but he shrugged it off."It doesn't matter now anyway,"he muttered, turning away.
+"Hey!" Avery called after him."Wait! I need help."But the man kept walking, heading deeper into the woods.He saw a small cabin through the trees and headed straight for it. It seemed deserted.As he got closer, he heard voices coming from within.They walked up to the front porch and stopped when they saw someone sitting in one of the chairs:a young boy about ten years old.He stared at Avery with wide blue eyes, ashen faced. A girl sat across from him, wearing jeans and a T-shirt. Her long blonde hair hung loose around her shoulders."Hello,"the kid said, nodding politely.
+"This isn't real,"Avery told them. "None of this is happening."
+"Of course it is,"Emma snapped."Get used to it, because you'll be here until you die or until the end of time itself."Her face crumpled and tears began pouring down her cheeks.

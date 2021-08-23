@@ -1,0 +1,119 @@
+=== Parameters ====================================
+                    Label: shark_bite_40_need_help_scenario
+                    Model: 6B-v3
+                   Prefix: Shark Bite 2021.08.22_40
+              Temperature: 0.55
+                MaxLength: 40
+                MinLength: 1
+                     TopK: 140
+                     TopP: 0.9
+         TailFreeSampling: 1
+        RepetitionPenalty: 3.5
+   RepetitionPenaltyRange: 1024
+   RepetitionPenaltySlope: 6.57
+              BadWordsIds: []
+              BanBrackets: true
+                 UseCache: false
+                UseString: false
+           ReturnFullText: false
+            TrimResponses: false
+=== Placeholders ==================================
+=== Prompt ========================================
+I need help. I'm not sure what's going on with me, but it's driving me crazy. After looking through the web, I found a Dr. Michael Szozas, who is a renowned psychiatrist and counselor.  Apparently he specializes in unusual cases. I'm not sure if my situation is unusual or not, and I'm not sure how to determine that, so I emailed him anyway.
+Dr. Szozas was so nice, and he sounded so smart when he responded. He recommended at least an initial consultation. An appointment was made for Monday at 9am.
+I'm nervous when I come up to his office; the entrance is a solid wooden door, and I reach out to knock. Rap rap rap. His voice comes, well-modulated and educated, "Come on in!"
+I step into his office, and my eyes cast about; the lights are set to a soothing dim level, his walls are filled with books. I am tempted to read the titles, but I mustn't be rude, oh no. So I look at the man that is sitting behind his desk.
+The first thing that strikes me is Dr. Szozas' warm, radiant grin -- with dimples! -- that told me that everything was going to be OK. Then these kind hazel eyes twinkling at me from behind a pair of wire-frame glasses. He rises up, and whoa, he's a tall man with a slender lanky frame that causes me to look up a bit at him. He wears a comfortable looking cardigan, and he has a pair of slacks, ending in some loafers. Dr. Szozas walks towards me, and takes my hand in his -- I immediately notice how large and warm his hand is, his skin soft as it wraps around my fingers, "I'm glad to see you," he says, and he seems to mean it. One could fall in love with someone like him so quickly, with his apparent sincerity and kindness.
+"Please, take a seat on the couch, make yourself comfortable.  State for the record your full name, and why you're here," he suggests, and he ambles over to sit in a comfortable armchair.  His hazel eyes fixate upon me, drinking and studying every detail of me as he waits for my response.
+I hesitate, and sit down on the couch, and I respond, "
+
+=== Iteration 0     ==============================
+My name is... uh..."
+He raises an eyebrow, "What?"
+"...Olivia."
+"Ahhh Olivia. And why are you here?"
+"Well, I don't know exactly what happened. It started with this weird feeling, like something inside of me had been pulled apart, then reassembled incorrectly. My brain feels funny, and sometimes I feel sick. At other times, I feel great. I can't sleep very well, and I get really irritable and angry all the time. The headaches keep coming back, too, and they're getting worse. I'm afraid that I might have a stroke or heart attack someday soon. I've tried taking medications to help calm me down, but nothing works. I need help."
+Dr. Szozas sits there silently for a moment, nodding his head slowly, his face showing concern. "You mentioned 'weird', what do you mean by that? Did anything happen recently, perhaps an accident or injury?"
+"No, not really. I got hit by a car once, but that was a long time ago, before I even met Dan. What does that have to do with my symptoms? I think the problem is deeper than that, though I'm not sure how deep it goes. I just want to be normal again, I want to be happy, I want things to go back to the way they were, but I don't know if that's possible. I'm scared, I'm confused, I'm frustrated. I'm losing control of myself, and I'm starting to lose my grip on reality. I'm having trouble making decisions, and I'm thinking about hurting people. I'm afraid that I'm going to hurt Dan, and I'm worried about my mom. I'm also concerned about the kids I'm raising. I'm trying to figure out how to protect them from me, but I don't know if I'll be able to. I'm a good mother, I hope I am, but I'm scared I won't be anymore. I guess I'm saying that I feel lost, but I don't understand where I am or who I am. I'm a mess, I'm so sorry to be bothering you with all these problems I'm having. I wish it wasn't happening to me, but I'm stuck with it, I suppose. I'm hoping that you can tell me what's wrong and give me some advice, because I'm at a loss right now. I would appreciate any guidance you could offer me, and I promise to try to be a better person. I'd like to be more stable, I'd like to be happier, but I don't know how to make that happen. Please, please, I beg of you, help me. I don't know what else to say."
+He looks at me for a few moments, and he smiles, "It's okay, Olivia. You're in no danger,
+
+=== Iteration 1     ==============================
+My name is Stephanie Jones."
+He nods, and then asks, "And why did you decide to seek counseling?"I try to think back to all the reasons why I've been feeling this way lately...and I realize there isn't one reason.It's just been happening slowly, day by day. But now, after seeing the doctor, I feel better. I know exactly what is wrong with me, and I can do something about it.After a moment, he responds, "Well, let's start with a history: tell me about yourself and your family, and where you grew up."So I talk, telling him about my life, growing up in San Diego, my parents, siblings, friends, school, work.And we get along famously, because I open up to him completely. I describe myself honestly and without reservation.
+When I finish, he smiles again, "That was very good, thank you.You seem to have a lot going for you; I'm sure your future will be bright."Now that I feel more confident, I ask, "What should I expect? What happens next?"He sits forward, and leans closer to me. He whispers conspiratorially, "Your initial appointment is $300 dollars. If you agree to continue, I charge $200 per session.I'll also bill you for any phone calls or emails that I need to return. You may come to my office, or I can meet with you at a location of your choice.It is entirely up to you. I would prefer to meet with you in person, but I understand that that might not be possible. We can discuss that when we meet.But I don't want to wait too long, I need to act, and I am a fast learner.And I hope that I am right about you, that you are the best candidate I am ever likely to find.
+"We will be meeting twice a week, starting tomorrow.I'd like to see you at least once a month.If I am able to help you, I will.
+
+=== Iteration 2     ==============================
+My name is..." I pause, and then say, "Lily." That's not really her name anymore. It feels wrong somehow, and I feel uncomfortable using it. Lily?No one calls themselves by their middle name. But I don't want to be rude, so I continue, "...Lily Sullivan. And I've been having...problems. With myself."He nods thoughtfully, "What sort of problems?"
+"Well, I have this compulsion to masturbate, and I can't seem to stop doing it.I'm embarrassed, because there isn't anyone else home right now, and I'm afraid they'll walk in and catch me. But I just keep going. I need help."I whisper softly, hoping that he will understand what I'm saying.
+"Do you think that you might be experiencing an impure or perverse sexual desire?"he asks, and his eyes narrow slightly, "You know, something that you may not fully comprehend yet.Do you get aroused by things that others find repugnant? Things that would normally cause disgust, revulsion, anger or fear?Does such a thing exist within you?"
+"Yes. I do.But I also enjoy the act itself.I enjoy touching my body and feeling pleasure, even if I'm alone. I'm ashamed, but I still do it.I'm confused. I'm frightened. I'm lonely."
+"Hmm. Let me ask you a few questions to try to determine if you are, indeed, suffering from a perverted disorder.Have you ever had any experience with incestuous behavior?"
+"No!" I answer, with a little too much vehemence.I'm surprised at myself.
+Dr. Szozas raises his eyebrows, but continues calmly, "Is that a 'yes' or a 'no'?I'm asking if you have engaged in incest with another person. I'm trying to determine whether your feelings are normal, or perhaps pathological."
+"NO!" I repeat, more forcefully than before.Dr. Szozas chuckles quietly, but doesn't interrupt, and I wonder how I'm supposed to respond to that question.
+
+=== Iteration 3     ==============================
+My name is Lillian Smith." I pause, feeling awkward, "And..." I stutter, then continue, "I think I may have... um... gone insane?"He chuckles, "That sounds quite reasonable. Why don't we start there? Tell me about your family history, and tell me what brings you here today."So I do. My father died when I was young, leaving my mother alone, raising two children by herself.She worked long hours, sometimes more than one job at once, which left us without much money.We were never wealthy, but our lives were simple and uncomplicated, until recently.When I was ten years old, my brother, Henry, went missing. We searched everywhere, but we couldn't find any trace of where he'd been taken.When we did eventually find him, he was living under a bridge, sleeping rough, and eating whatever scraps he could scavenge. It took weeks before my mom managed to get him back home again,and she had to work even harder after that.
+Then things got worse. After that incident, I began to hear voices in my head.At first they were just whispers, but gradually their volume increased, and they became louder and clearer. They spoke to me constantly, telling me to hurt myself, and that I should kill my mother.I tried to ignore them, but I was powerless to stop the thoughts that ran through my mind.Eventually I realized that I was losing control, and that I needed help. So I came to the doctor's office, hoping that I would be able to figure out the source of my problem."Well, that was certainly an interesting story, but I'm afraid I can't help you.I'm sorry, but I'm not a psychiatrist. I'm a psychologist.I'm sure that you'll be happy to know that I specialize in treating patients who suffer from schizophrenia or bipolar disorder. However, I'm not qualified to treat your condition.You need to consult with a specialist, perhaps a neurologist, a neuropsychologist, or a psychopharmacologist.
+
+=== Iteration 4     ==============================
+My name is Lauren Brown."
+He nods, "And what brings you here?"
+I sigh, "Well...I have this recurring nightmare.It's been happening since I can remember, and now it's becoming more frequent. At times, I don't even know what's real anymore."
+"Do you feel any different?Any other symptoms besides nightmares?"
+I shrug, "No, not really.It just happens. Sometimes I wake up screaming, sometimes I dream that I've done something terrible, but then I realize that I haven't done anything wrong.It's just a bad dream."
+Dr. Szozas leans forward, "Lauren, do you think you might be having a psychotic episode?"
+"A psychosis?!" I exclaim."Yes, yes, we'll get to that later, but let's start by talking about the dreams. Tell me what they consist of..."
+So I tell him about the recurrent nightmare:A woman, her face covered with blood. She tries to eat me, but she doesn't seem hungry; she wants to kill me."What does the woman look like, Lauren?"
+I shake my head, "She looks human, but there are parts missing.Her body is twisted, contorted, and she has long black hair that hangs to her waist.Her eyes are sunken, and dark, and she has sharp teeth. And when I try to run away, I always end up back at the house where the nightmare began.It's a place that I recognize, but I'm not sure if I'm dreaming or awake, because I've never been there before.I'm afraid that I'm going crazy, but I'm also terrified that I'm not. I want to scream out, but I'm paralyzed; I'm frozen with fear.I can't move, I'm trapped.
+"You say that the woman is trying to hurt you, but is that all that the dream is about?Is the rest of the dream the same each time, or is the situation changing somehow, with the woman, the setting, the way that the dream ends?"
+
+=== Iteration 5     ==============================
+My name is Kaitlin Matthews."
+He nods, "And tell me where you live, please?"
+Again, I pause, and then say, "At home.""Where is 'home?'" he asks.
+I start to speak, but then I stop myself.Instead, I just shrug, "I don't know... somewhere in Florida? Somewhere near Orlando maybe.""That's a good place to start," he replies. "Tell me, what do you think is happening to you?"
+I nod, and then I try to explain: "Well,I've been feeling different since the day I graduated high school.It started when I went away to college, and then I met this guy named Seth...""Seth?"he interrupts.
+"Yeah, Seth. We dated for a while, and then we broke up, because I guess things were getting too serious between us.But after I came back from New York City, I felt really strange. My whole body was tingling all the time, and I couldn't sleep well.And when I did, I'd have nightmares about something called The Swarm.And then, last week, I saw a movie about sharks and the Internet said that they can smell blood, and that made me feel sick to my stomach.And I had a dream about a shark biting me and I woke up screaming. I don't understand any of this!"Dr. Szozas listens patiently, nodding along, "So, there are a lot of things going on inside your mind, and I need to get a better sense of them.Tell me, how are you sleeping these days?"
+"Not very well, actually. I wake up a couple times a night, and I'm always tired.And I'm having trouble concentrating. I'm not sure if it's because I'm stressed or anxious, or if it's a side effect from the medication I'm taking.
+
+=== Iteration 6     ==============================
+My name is Maryann O'Malley."
+He nods, and then turns back to face me. "And why have you come to see me?"I sigh, and lean forward slightly, resting my elbows on my knees, and clasping my hands together, "Well...it started this morning..." I begin.
+Dr. Szozas leans back in his chair, folds his arms across his chest, and looks at me expectantly."Yes? And what happened this morning?"
+I feel myself getting more emotional as I recount the events leading up to my current state.My breathing quickens, and tears start to form in my eyes. When I finish telling him all that had transpired, he sits quietly for a moment before speaking."Maryann, do you know where you are right now?"
+I shake my head, "No."
+"You are in one of our offices downtown.You are safe, and you are not alone. Do you understand that?"
+Again I nod. "But why am I here?"I ask.
+Dr. Szozas smiles, and he pats the cushion beside him. "Why don't we talk about that after you've been examined by the doctor?"I stand up, feeling somewhat empowered, and I walk to the door, and open it. I turn and look at the doctor, and I say, "Thank you."He waves his hand dismissively, and stands up to follow me. As I close the door behind me, I hear his voice.
+"Anytime, MaryAnn."* * *
+It's almost 9:30 when I arrive at the office building. I enter the lobby, and I am directed to the elevator.I get inside, press the button, and the doors slide shut. I look at the panel above the buttons, and I am shocked to see that there are only two floors listed.I stare at the numbers on the door, and I realize that I am going up to level 10! I am in shock. I am in awe that I am actually doing this.I am also terrified.
+The elevator stops, and the door opens, and I step out into a hallway that is lined with doors.I look at the number on my door, and it is 708, I'm at level seven. I am still in a daze, and I am wondering if I am dreaming.
+
+=== Iteration 7     ==============================
+My name is Liana Vidal."
+He smiles again, and leans forward slightly, elbows resting on his knees. "And?" he prompts gently.
+"Liana...V..."I start to say, but then realize I've forgotten her last name, "Oh God, my parents named me after a plant.It was either Liana or Lily. They wanted a girl, so they went with Liana. My middle name is Victoria. I always hated being called Vic or Vicki." I laugh nervously,trying to put this all together in my head, and I continue, "I'm twenty-five years old, and I live in New York City. I work at a small design firm there.The company does mostly interior decorating, but we also do landscaping, gardening, painting, carpentry, whatever needs doing.It's very rewarding work. And the pay is good too. I'm single, but not dating anyone right now."Dr. Szozas nods, "So tell me more about what brings you to see me today."Now I feel silly talking about myself, but I know if I don't get this out somehow, I'll explode."Well, I guess you can call me 'crazy', because I think I might be losing my mind. I have been having visions, dreams, nightmares, hallucinations, you name it.I thought I was imagining things at first, but I started seeing them when I was younger, when I was ten or eleven. It was just one thing at first, but it kept getting worse.Now I am convinced that I am going insane, that I am becoming delusional, that I am losing my mind. I am really scared, Doctor, I am afraid I am gonna hurt somebody.I am afraid I am going to kill someone. I am afraid I am going to go to jail. I am terrified that I am crazy!"I stop to catch my breath, and I am crying, I am so ashamed. I try to control my emotions, but I am shaking inside."You are not going to hurt anybody, Ms. Vidal, I promise. You are safe with me.I will help you. I am a psychiatrist, and I am the best in my field.
+
+=== Iteration 8     ==============================
+My name is Emma Grace Williams."
+He nods, and then continues, "Why did you choose to meet with me?"
+And there's where things get complicated.I don't know how to answer this question because... well... I have no idea what's going on with me, and I just want answers.The more I think about it, the less certain I become. It doesn't feel right to lie, though.If anything, lying feels wrong, especially since I've been doing such a good job lately.But what can I say? What should I tell him? My mind races as I search for the words that will explain all the strange feelings I've had recently.
+"Well, um..."I begin hesitantly, "It's hard to put into words, but I'm having trouble sleeping, and I'm feeling very stressed out.And I'm afraid that something bad might happen, and I need help."Dr. Szozas smiles at me reassuringly, "Do you remember when we talked before?"
+"Yes sir," I reply, nodding."You said that you were suffering from insomnia and anxiety, correct?"
+I nod again.
+"Are you still experiencing those symptoms?"
+Oh God, I'm not sure.I try to hide my confusion, and I shrug.
+"How long have you felt that way, Miss Williams?"A few days, I guess, I consider.
+"Have you seen a doctor about these problems, or do you go to a therapist or psychiatrist regularly?"
+No, I haven't."What medications are you taking, if any, to treat these conditions?"
+Nothing, I shake my head."Has anyone close to you, or who knows about you, suggested that you seek medical attention for the sleep and stress issues that you are facing?"I'm not sure.
+"Miss Williams, please forgive me for asking the questions that I am, but I must be sure that I understand the situation correctly.
+
+=== Iteration 9     ==============================
+My name is Oren Taylor, and I've been seeing Dr. Szozas since yesterday."
+He nods, then asks, "And what do you think is wrong?"Again, I pause, thinking. I try to recall all the things that have happened since my last visit with Dr. Szozas.There were those strange dreams... and the sudden onset of anxiety. I don't know if they're related or not. But I can tell that something isn't right.And I want to talk to this man, because he listens and doesn't judge.I feel safe talking to him, and I begin to speak. "It started when I was watching TV, and there was a news report about a shark attack.And I suddenly felt very anxious. It was like being overwhelmed by fear, or panic. I wanted to run away, but I couldn't move. The feeling just got worse until I was screaming.And when the police came to help me, I woke up..."
+Dr. Szozas watches me intently as I recount what had transpired. He is silent for a few moments before asking,"What did you say to the police?"
+"Nothing. I didn't even open my mouth. I wasn't able to speak, and I became afraid that I would scream again.I tried to get out of bed, but I couldn't. I thought I might throw myself off the balcony. I really considered it. I'm not sure if I actually went through with it,but I seriously thought about it. I'm not sure if that's a good thing, but I knew that I needed to calm down.""Did you go back to sleep after that?"
+"No, I stayed awake.I spent most of the night lying in bed, trying to figure out if I'd imagined the whole thing.I'm not sure if I'm crazy, but I am pretty sure that I need to see a psychiatrist.I've never experienced anything like that, and I've certainly never heard of anyone else having such an experience. I'm not sure how to explain it, but I think that I'm going insane,and I'm worried that I may hurt somebody, especially my family. I'm scared, and I don't understand it."

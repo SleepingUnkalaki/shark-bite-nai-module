@@ -1,0 +1,141 @@
+=== Parameters ====================================
+                    Label: shark_bite_40_smell_blood_scenario
+                    Model: 6B-v3
+                   Prefix: Shark Bite 2021.08.22_40
+              Temperature: 0.55
+                MaxLength: 40
+                MinLength: 1
+                     TopK: 140
+                     TopP: 0.9
+         TailFreeSampling: 1
+        RepetitionPenalty: 3.5
+   RepetitionPenaltyRange: 1024
+   RepetitionPenaltySlope: 6.57
+              BadWordsIds: []
+              BanBrackets: true
+                 UseCache: false
+                UseString: false
+           ReturnFullText: false
+            TrimResponses: false
+=== Placeholders ==================================
+=== Prompt ========================================
+The creatures could smell blood.
+
+=== Iteration 0     ==============================
+
+"There's a chance the sharks will go after her," Driscoll said, "but we have to get back there."
+She was right about that. They had no idea how long it would take them to find a way out of here and if they did, what kind of reception awaited them on the other side. The only thing she knew for certain was that she didn't want to be alone in this cave when those things came looking for their next meal.
+They set off again through the tunnel, taking care not to slip or fall. A few minutes later, the passage opened up into another cavernous space with more stalactites hanging from above. There were still several miles left to walk before reaching the surface, but at least now they weren't completely lost.
+Driscoll found herself wishing she'd brought along some food and water so they wouldn't need to stop every ten seconds to rest. She wasn't sure how much longer she could keep going like this. Her muscles felt stiffer than ever as they trudged onward. Sweat dripped down her face, stinging her eyes and making her hands sticky.
+Suddenly, something moved ahead of them, just beyond where the light reached. It took a moment for her brain to process what she saw: a dark shape standing upright against one wall. Another creature? Or...
+A man! He stood taller than any human should have been able to reach, his legs spread wide apart, arms akimbo. His head appeared to be shaved bald except for two tufts of hair poking out near his ears. As they drew closer, Driscoll realized he wore nothing but a loincloth made of animal skins. And he was staring directly at her.
+He looked as though he might charge forward at any second, so Driscoll raised both hands palms-outward, signaling him to stay put. The stranger seemed confused by this gesture, but then shrugged and turned away.
+For an instant, Driscoll thought maybe they had finally come across someone who could help them escape. But then she noticed the scars covering his body. Not all of them were fresh; others looked old enough to have healed over years ago.
+And yet he walked around freely, unafraid of whatever dangers lay ahead. That couldn't possibly be true. Could it?
+As they continued walking, the tunnel grew darker and narrower until it ended abruptly in front of them. Beyond, there was only blackness.
+"I'm afraid I don't know which way is back home," Driscoll told him. "But you must lead us out."
+The man shook his head. "No can do. This place ain't safe for humans."
+"You're welcometo return with me," she offered. "We'll send word back to your people once we've escaped."
+The stranger laughed—a harsh sound, full of bitterness.
+
+=== Iteration 1     ==============================
+They were drawn to it, and they would never stop until they had devoured the last of their prey.
+"They'll be coming," he said. "Get ready."He heard a rustling in one of the trees.A branch shook loose from its moorings and fell across his face. He tried to brush it away but couldn't move his arms.The branch was too heavy for him; he felt himself being pulled down into the water as if by an invisible hand. It took all his strength not to panic.His lungs began to burn with need of air. The branches around him seemed to bend toward him like grasping fingers.Then he saw her: A young woman stood on the shoreline, watching them through binoculars. She wore a white lab coat over jeans and a T-shirt.Her blond hair hung wetly past her shoulders.She raised the glasses and looked at him.Her eyes widened when she recognized who he was.
+"Oh my God!"she cried out. "What are you doing here?"
+Riley struggled against the current, trying desperately to reach the shore. His heart pounded wildly within his chest. His body ached from head to toe.Water filled his mouth; he gagged and coughed.
+"I'm going back to get help,"the woman yelled. She dropped the binoculars and ran off along the beach.Ripples spread outward from where she'd been standing. Riley watched helplessly as the rippled spread farther and farther. The water grew deeper... darker.
+He closed his eyes.When he opened them again, there was no sign of the woman or the boat that had brought him here. Only darkness. Darkness everywhere.
+It wasn't long before Riley's mind went blank,his thoughts slipping away from him. He lost track of time; he didn't know how much longer he remained conscious.But then something happened—he remembered what had happened to him after he'd gone underwater,when he'd begun to feel pain so intense that he thought he might die. And now he knew why.Something was wrong with him. Something very wrong.
+The water washed over him once more, dragging him under.This time it wouldn't let go. It wanted him dead, wanted to take everything from him.
+And then he found himself looking up at the sky.Above him were stars. Bright stars.Hundreds of them. Thousands of them. Millions. They shimmered above him, filling his vision, and he realized he could see forever.
+
+=== Iteration 2     ==============================
+"I'm not going to die," he said, "not from a shark.""You're not thinking clearly. You need medical attention. I can't give you that if you don't let me take care of your wounds first.""What's the point? We both know there are no doctors on this island. The only way out is over the falls or back into the water."He closed his eyes and took in another deep breath.
+"If we stay here, they'll find us eventually." She stood up and looked around for something to use as a weapon.She found a large rock about three feet long with sharp edges all along its perimeter.She picked it up and then threw it at him. He caught it midflight.It bounced off his shoulder and landed near his head.She didn't throw again. Instead she went behind one of the boulders and started digging through her pack.
+"Why do you want to go over those rocks?"asked Ransom. "They look pretty steep."Riley was searching for anything else that might be useful.A few minutes later she came back holding what appeared to be an old piece of rope.It had been cut down by someone who knew how to use their hands instead of just hacking away at it with a machete."How did you get hold of this?"she asked."There were some pieces left when I got here but nothing like this."
+"It belonged to my grandfather,"he answered."He used to tie knots so he wouldn't lose them. It must have fallen apart after years of being tossed around."She examined it carefully.
+"Is this strong enough to carry two people across the chasm?"she asked."We'd probably end up dead before either of us reached solid ground.""No, it won't work,"said Ransom. "It would snap in half."
+"Then maybe we should try it."
+"Are you crazy?If it breaks we'll fall to our deaths!""That doesn't mean we shouldn't even consider the possibility. What other choice do we have?""But why risk our lives trying to escape when there's nowhere to run? Why not wait until the sharks leave and swim toward shore?"
+"Because if we don't make a break now,
+
+=== Iteration 3     ==============================
+"He's dead," she said, her voice shaking. "I'm sorry."
+She felt his body slide out of the water and onto the beach.She couldn't look at him as he lay there on the sand. He was so pale. So still. The man who had been alive a moment ago seemed to have died all over again.She closed her eyes, but when she opened them again, he wasn't lying in front of her anymore. He'd disappeared.
+"Lily?" His voice came from behind her.She turned around, expecting to see him standing there with that same sad smile. But instead it was someone else wearing the same uniform: Lieutenant Randal O'Brien.His hair looked wet, and he smelled like seawater and something sweet—a flower or maybe candy.It made Lily feel better for some reason.She smiled back at him.
+"You're not supposed to be here yet," she told him. "They'll kill you if they find out."
+Randy nodded."Yeah, well... I don't care about that right now. This is amazing!"
+Lily didn't know what to say to that.She just stood there looking down at where Randy's hands were pressed against the side of the boat. It was almost funny how much bigger he was than before. How big everything seemed.She wished he would go away. That this whole thing would end soon.
+But then he did another strange thing.Instead of going back into the ocean, he climbed up the ladder onto the deck. She heard him talking to one of the men inside the cabin. And then he walked toward her.And suddenly she realized why he had changed. Why everything had gotten bigger. Because Randy had become a giant. A monster.
+A shark-man.As he approached, she saw that his skin had taken on an iridescent blue glow. It reminded her of the scales of a fish, only larger.Longer. Larger teeth. More powerful jaws.
+When he reached her, he wrapped both arms around her waist.Then he lifted her off her feet.
+Her heart pounded in terror.Her breath caught in her throat. She struggled to free herself from his grip, but it was no use. He was too strong. Too heavy.Too huge.She tried to kick him as hard as she could, but even though she kicked high, her foot barely connected with his shin.
+He laughed at her.The sound boomed through the air,
+
+=== Iteration 4     ==============================
+The shark had been driven off, but the man was still alive and bleeding.
+"I'm going to have to use my knife," said Ortega. "You'll be fine."Ortega started cutting away his shirt while keeping an eye on the sharks circling in closer. He tossed aside the shirt when he'd cut through it all the way down to his waist.The water was cold against his bare chest.
+He grabbed a handful of sand from the bottom of the boat and rubbed it into his skin as best he could before grabbing another handful.The sharks were close enough now that he could hear their teeth scraping against one another. The sound made him feel sick.There wasn't much time left for this trip. There just weren't.
+With shaking hands, Ortega tried to tie his belt around his waist so he wouldn't lose any more blood.He felt dizzy again.His head swam with pain. It was like someone had put lead weights inside his skull.
+"Hurry up!" shouted Alonzo."They're coming back! They're gonna eat us if you don't hurry!"Alonzo's face looked pale.His eyes were wide open and staring at nothing.His lips moved as though he wanted to say something, but no words came out.It scared Ortega to see how frightened Alonzo seemed.Then Alonzo began screaming.
+Ortega turned and saw two white shapes heading straight toward them. His heart jumped into his throat. He knew what they were.Sharks.Big ones.And they were closing fast.
+Ortega reached over and pulled Alonzo onto the deck.Then he went belowdecks himself and grabbed the pistol.
+When he returned topside, he found Alonzo lying facedown on the deck.A big black fin rose above his body.One of the sharks must have bitten him in half.
+Ortega stood there watching helplessly until he heard the first splash.
+
+=== Iteration 5     ==============================
+They came closer, their heads bobbing as they searched for the source of the scent.
+"They're going to kill us!" Talia screamed."We have to get out of here."
+Owen stared at her in disbelief. "Are you serious? We can't leave them! They'll die if we do that!"Talia grabbed his arm and tried to pull him away from the window. But he resisted. She pulled harder until Owen finally gave way, letting himself be dragged backward by his sister's grip.The two fell onto a couch near the front door.
+A shark leaped through the broken glass into the room. It was followed closely by another one.The three sharks continued searching for more prey, but found nothing. Then they turned toward the humans on the floor.Their eyes glowed red with anger. Their teeth were bared. They started forward again.But then something happened...the first shark suddenly stopped moving.It let out an eerie scream before it began thrashing wildly against its cage.Its head snapped back and forth so violently that it broke free of its restraints. The other two sharks quickly followed suit, bursting free of their cages and leaping across the room toward the terrified human beings.In spite of themselves, Talia and Owen watched in horror as the monsters attacked their friends.Both sisters cried out as the three sharks bit into the flesh of their victims.Blood sprayed everywhere. Screams filled the air. One man died instantly when a shark ripped open his chest. Another managed to roll over just enough to avoid being bitten in half.He lay there helplessly while his killer chewed on his leg.Finally, the last victim escaped the attack.He ran outside and slammed the door shut behind him.As soon as it closed,the screaming ceased.Silence reigned once again throughout the mansion.All except for the sound of heavy breathing coming from the shattered windows.Owen slowly got up off the sofa. His hands shook uncontrollably. He glanced down at Talia and saw tears streaming down her cheeks.
+
+=== Iteration 6     ==============================
+"We're going to need a bigger boat," said Ortega, "and I'm not talking about the kind you can rent in Key West.""I think we've got one coming up on the horizon. It's an old fishing vessel called the Sea Beast."
+Ortega nodded."Good enough for me. We'll take her."
+"And what are we looking at here?" asked Blanco.
+"A giant sea monster that eats people," replied Ortega."If it looks like this thing is getting close to us, then get out of its way and let me do my job.The rest of you just stand there with your hands over your ears while I try to kill something really big."
+Blanco looked around him as if he were searching for someplace safe to hide."You know, Captain...we might be able to help you out."
+Ortega stared back at his crewman."How so?""Well, our friend here has been telling everyone how much he hates sharks—that they eat their own young when no one else is watching them. That sort of makes him easy meat.""No thanks," said Ortega. "It sounds like you want to make sure that whatever gets eaten today will never grow into another shark tomorrow.If you don't mind, though, maybe we should call the others and see if any of them have had similar thoughts."
+"That would be great," said Blanco. "But first..."He reached down to pick up a small metal object from the deck. He held it between two fingers and turned it this way and that before handing it to Ortega."Here."Ortega took the device but didn't recognize it immediately. Then he saw the letters printed across the top: M-E-O-R-S.
+"What's this?A bomb?"asked Blanco."Who sent you guys a bomb?"
+"Just open it," said Blanco. "See for yourself."
+Ortega did as requested.A thin wire ran through the center of the package. At either end was a red button. There was also a black plastic tube attached to one side.The tube seemed to be filled with liquid. Ortega pulled off the cap and peered inside.
+"Is that gasoline or oil?"he wondered aloud.Then he remembered where he'd seen the words MEORs written on the box.
+
+=== Iteration 7     ==============================
+"They're coming," she said, and it was the truth. The sharks were coming. She knew that if they got close enough to the boat they would strike like a hammer blow."I have to get out of here!" he shouted. "We need to go back for my parents! We can't just leave them!""No!"
+She saw him hesitate. He wanted to help her but couldn't bring himself to abandon his family.She had no choice; she needed someone else on this boat with her. Someone who wasn't afraid. And there was only one person left in the world she trusted completely: Ryan.Ryan's eyes widened as he realized what she was saying. They were going to die—all three of them.
+He looked down at the water.It seemed so far away now. There was nothing beneath it except cold darkness. No bottom, no shoreline. Just blackness and death...and monsters hungry for their flesh.But there was another way out, a path that led to safety.It lay beneath the surface of the ocean, an underwater passage that ran from the island all the way across the Pacific Ocean to America. A shortcut through the sea. If she could find it...if she found it quickly enough...she might be able to reach land before the sharks did.Before they ate her alive.If she didn't drown first.Ryan understood immediately. It made sense.This was a chance to escape. To live again. But how?How do you swim through hundreds of feet of dark water without getting lost?Without drowning?And where is the exit? What are we looking for?"You'll know when you see it," she told him.
+Ryan stood up.His legs felt unsteady.His heart raced. He tried not to think about what was waiting below the waves.What was lurking inside those shadows.
+"Come on," he said. "Let's go."
+Together, they headed toward the stern. As they walked, the woman pulled off her mask.Her hair fell loose around her face. Her skin shone palely against the blue fabric of her suit.Ryan stared at her.
+
+=== Iteration 8     ==============================
+They wanted to eat it, and the taste of human flesh would make them even hungrier than they already were."We have to get out," said Ortega. "Now!"
+She grabbed her pack and headed for the ladder. She started down when she heard a loud roar from above.It was followed by another one. Then several more in rapid succession. The noise grew louder until it seemed as if there must be thousands of hungry sharks all around them.
+"Ortega!What are you doing?" shouted Driscoll. He scrambled toward her but fell at the last step. His legs wouldn't hold him.He tried again, crawling on his hands and knees, then he stood up and stumbled after her.At that moment, the water level began rising. It rose quickly. Soon it had reached their ankles.
+Driscoll called for help, but none came.He looked back over his shoulder. Above them, the sharks were circling like angry vultures. They closed in.
+And suddenly everything went black...When Ortega awoke,she found herself lying on a bed with only an inch or two of space between her body and the mattress. Her arms and legs felt stiff and sore.And cold.Cold enough so that she thought she might never warm up.
+"Where am I?" asked Ortega. "Is this the hospital? Who brought me here?"A nurse appeared next to the bed. She smiled sympathetically. "You've been asleep since we got you into recovery room five.How do you feel now?"
+"I'm fine," said Ortega. "Just tired is all."But how did she end up in this place? Where's Driscoll?And what about those sharks?
+There was no answer. The nurse left the room without saying anything further.
+Ortega lay alone, staring blankly at the ceiling.And then she saw something strange:a bright light shining through the glass window near the top of the wall.A powerful searchlight was focused directly upon her face.
+For some reason, it frightened her.
+Then the door opened and Driscoll entered the room wearing surgical scrubs. "Well,well, Ms. Ortega. How are you feeling?"
+"Fine," said Ortega. "Why aren't you dead?"
+"Because I took precautions against getting bitten."
+
+=== Iteration 9     ==============================
+"I'm going to try something," he said, and began firing again. The bullets tore into the shark's flesh, but it was too fast for him to hit anything vital."We need a diversion!"
+"What kind of diversion?" she asked as the two men continued their assault on the creature.
+"It doesn't matter! Just do it!"She stood up from her chair, turned toward the tank where the sharks were being kept, then bent over so that only one eye remained above water."Oh, my God..."
+A man came out of the shadows behind the tanks, his face covered with blood.He held an ax in each hand, ready to strike at any moment. "You can't stop me now," he growled.He swung both axes down, slicing through the glass of the aquariums like butter.Water sprayed everywhere as the sharks inside leaped free, snapping and biting everything they touched.They swam away from the cages, heading straight for the boat.
+Zacarias took aim, fired another round.But before the bullet reached its target, the first shark slammed into the side of the boat, knocking Zacarias off-balance. He fell against the railing.As he struggled back upright, the second shark collided with the other, sending them tumbling across the deck.They landed hard, rolling together onto the ground.
+Before anyone had time to react, the third shark jumped over the railings. It struck the head of the nearest fisherman, driving him overboard.His screams echoed around the bay.
+"Get belowdecks!" shouted Zacarias. "Now!"
+Clara scrambled down the steps to the lower level, followed by Rafe.They made it just in time; the three sharks were already closing in on the unconscious man.
+Rafe grabbed Clara's arm, pulling her aside."Stay here," he whispered fiercely.Then he ran forward and aimed his rifle at the shark.There was a loud pop, and the beast disappeared.
+"No!" cried Clara.
+"That thing is still alive," said Rafe grimly.
+"So what? We're not leaving our friends to die."
+"Those are people we're talking about!

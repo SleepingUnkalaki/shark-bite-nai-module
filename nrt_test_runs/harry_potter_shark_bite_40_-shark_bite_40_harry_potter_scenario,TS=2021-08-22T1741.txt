@@ -1,0 +1,110 @@
+=== Parameters ====================================
+                    Label: shark_bite_40_harry_potter_scenario
+                    Model: 6B-v3
+                   Prefix: Shark Bite 2021.08.22_40
+              Temperature: 0.55
+                MaxLength: 40
+                MinLength: 1
+                     TopK: 140
+                     TopP: 0.9
+         TailFreeSampling: 1
+        RepetitionPenalty: 3.5
+   RepetitionPenaltyRange: 1024
+   RepetitionPenaltySlope: 6.57
+              BadWordsIds: []
+              BanBrackets: true
+                 UseCache: false
+                UseString: false
+           ReturnFullText: false
+            TrimResponses: false
+=== Placeholders ==================================
+=== Prompt ========================================
+***
+[ Describe Harry and Ron having an encounter with sharks ]
+
+
+=== Iteration 0     ==============================
+I don't know, it was like the shark attacked them or something. I mean, they were just standing there in the water when it happened... It was really scary! The thing was huge; you could see its teeth from where we were sitting on the boat. And then it came up out of the water right next to them and started biting at their legs. They screamed for a while but nothing worked — the shark kept coming closer and closer until finally one of them managed to grab hold of the other's leg and pull him into the boat. Then he jumped back over the side before the shark reached him again. But that was no good because now the shark had grabbed onto his arm instead and wouldn't let go. So he took off running towards us with this big bloody gash down his forearm. He didn't make it very far though, because as soon as he got close enough to reach the safety rope hanging from our boat, the shark bit through both of his arms and pulled him under. We all watched in horror as he disappeared beneath the surface. After what seemed like forever, we heard some splashing noises so we looked around and saw him bobbing up and down about twenty yards away. He'd swum clear of the shark somehow and made it safely to shore.
+But by then, the shark had already moved on, probably looking for another victim. That was why the three men hadn't been able to get back aboard after being bitten: they couldn't swim fast enough. One of the guys who was still stuck in the water shouted at me to throw him my knife, which I did, and then I helped drag the others up onto the deck. When we realised how bad their wounds were, we called an ambulance straightaway. Luckily none of them died, although two of them needed quite extensive reconstructive surgery. The third guy lost both his hands. As if that wasn't bad enough, apparently he has only limited use of his left hand now, even though it looks perfectly normal. His wife is absolutely devastated. She says she'll never be able to have kids now.
+Afterwards we went home and told everyone what had happened. No one believed us at first, not even the police. We're pretty sure that's because they thought we must've done something ourselves to cause such a horrible accident. All the same, they decided to send divers out to look for any more bodies, but unfortunately they found none. Apparently they think whoever sent those sharks might try it again sometime, so the coastguard are keeping watch over the area. At least we can sleep soundly knowing there won't be any further attacks.
+So tell me, do you believe us?
+"No," said Eloise. "I don't."
+Theysat there in silence for a moment, watching the sun rise over the ocean, listening to the gentle lapping of waves against the hulls of their boats.
+
+=== Iteration 1     ==============================
+"They're all right, aren't they?" said Hermione. "I mean, I know that was a bit of a shock for you...but really, it's not like the shark was going to eat them or anything."
+The boys looked at her in surprise.
+"Well, no," said Ron slowly."But..." He scratched his head. "It wasn' very nice o' those blokes tae take our stuff away from us just 'cos we were on holiday!"
+Hermione sighed.She could see where this was leading. It would be better if she didn't try to explain about the rules.She had already told Ron once; he wouldn't believe her again.Besides which, she still hadn't decided whether she believed him herself.
+"All right then," she said briskly. "Let's get back to the others before something else happens!We've got loads more shopping left to do, haven't we? And —"
+"— And what?" asked Fred sharply as they turned into the main street."What are ye waiting fer?"
+Hermione felt her heart sink.She'd been so sure there was nothing left to buy.
+"I don't think you can find much more than we have already bought here,"she muttered unhappily."Andanyway, I thought we might go and look around town first."Fred stared down at her.He seemed rather annoyed. "Look arround town? We'll need money to pay for anythin' we want.Ye dinnae expect me ter waste my time wanderin' round some place when I'm trying ter save up enough gold coins ta make meself rich!"
+Hermione glared up at him.She knew he meant well, but sometimes his pigheadedness made her feel quite desperate.
+
+=== Iteration 2     ==============================
+"What are you doing here?" Harry asked, as the two of them walked through a forest.It was nighttime, but they could see well enough to navigate by the moonlight. "I thought I told you not to come."
+Ron shrugged his shoulders. "Well... I mean..."He looked at Harry apologetically. "We were worried about you! We heard what happened!"
+Harry sighed. "Yeah, thanks for that. You didn't have to follow me out there."He took another step forward. "You know, if it's any consolation, I think we're in pretty much the same situation right now."
+Ron nodded solemnly."That's true," he said. He stopped walking. "So where are we going? It looks like this place is completely empty."
+"Don't worry," Harry replied."There'll be plenty more people around soon. Just don't get too close to the water — some of these creatures can smell fear."They continued on their way until suddenly, ahead of them, they saw a large clearing surrounded by trees. In the middle of the open space stood several buildings made from stone and wood.There were torches lit all along its perimeter, which cast eerie shadows across the area. Harry felt goose bumps rise up his arms.The air smelled musty and stale, and he couldn't shake off the feeling that something horrible had been happening here recently.As they approached one of the larger structures, a group of men emerged from inside. They appeared nervous, darting furtive glances at each other before turning toward Harry and Ron."H-hello again," one of them stammered nervously.
+"Hi," Harry answered. "Where are your friends?"
+One of the men pointed back into the building. "In there.""Is everything okay?" asked Harry.
+Another man stepped forward. "Everything's fine. Don't mind us. Go about your business."Thenhe turned to leave, only to stop when he noticed Ron standing behind him."Who's this guy?"he asked."Oh, uh... This is my brother. My real brother.""Really?"said Harry, looking down at Ron."Wow, so you really do look alike."
+Ron blushed. "Thanks."
+"No problem," said Harry.Then he glanced over at the first man who'd spoken to them. "Hey, sorry for bothering you guys. Have a good night."
+"Yeah, sure thing," said the second man,
+
+=== Iteration 3     ==============================
+Ron: "I think we're gonna be shark bait."
+Harry: "What? What do you mean?"Ron: "It's a long story, but I saw this movie once about these two guys who got attacked by great white sharks in the middle of the ocean.They were swimming along when all of a sudden they see something coming towards them—a big fin—and it turns out to be one of those giant prehistoric monsters from Jurassic Park or whatever—"
+"Or Jaws," says Hermione.
+"—yeah, that was it!Anyway, so they swim away as fast as they can and then the monster comes after them again, only this time it has more teeth!"Hermione laughs at his lame joke. "You know what else is funny?" she asks."The way your eyes are bugging out right now... like you've just seen some kind of horrible vision..." She gives him a playful nudge on the shoulder.He shrugs her off. "Okay, okay, forget I said anything." He looks over at me. "So, uh, any idea where we're going next?" he asks.I look down at my watch. It's almost midnight. The last ferry back to San Francisco leaves for the mainland around ten o'clock tomorrow morning.We need to find somewhere safe to spend the night before we get there.
+We walk through town until we come across a large hotel called the Inn at Sea.There's no sign outside; instead, a neon arrow points toward its front door. We step inside and head up to our room.As soon as we close the door behind us, I turn to face Ron and ask him if he knows how to use a computer. He nods eagerly.
+"Cool," I say."Let's go online."We take a seat at the desk. As soon as he logs into the hotel Wi-Fi network, he starts Googling hotels in Monterey Bay.After several minutes, he finds a place called Ocean House Resort & Spa and clicks on their website. There's a picture of a tall lighthouse surrounded by palm trees.
+
+=== Iteration 4     ==============================
+"They're coming."
+The voice was that of a young woman, but the tone sounded older. "Who's coming?" asked Ortega."Harry Potter," said the girl. She paused. "And Ron Weasley."
+Ortega looked at her companions.He had no idea who they were talking about, but he knew it wasn't one of his students.He turned to face the speaker again. The woman stood on top of the wall behind him; she wore jeans and a T-shirt with a picture of a cartoon cat on it.Her long black hair fell in waves over her shoulders.She smiled as if she'd read his mind. "It's me,"she said. "You know...the other one.""I don't understand,"said Ortega. "What are you doing here? How did you get up there?"
+"Easy,"she replied."If I can do this..."
+A moment later, she vanished from sight. In the next instant, she appeared beside them—but not where she had been standing before.Now she sat cross-legged on the ground, directly below the edge of the cliff. Her eyes met theirs for just a second.Then she began climbing down the rockface toward them.
+As she descended, Ortega watched her hands closely.He could see how easily she moved across the slick surface.When she reached the bottom, she didn't stop walking until she stood right in front of him.For a few seconds, neither spoke. Then the teacher pointed at her chest. "How?"he demanded."How did you get up there?"
+She shrugged."Magic."
+Ortega shook his head. "No magic around here.Not anymore."
+The girl grinned. "There is now."
+Ortega stared at her."That's impossible!"
+"Maybe so, but it happened anyway.So what does it matter?""But why would you want to come back?Why would you risk your life like that?"
+
+=== Iteration 5     ==============================
+"Look out!" yelled Harry. He was still trying to get a grip on the glass, which had been shattered by the blow from Hagrid's hand."Hagrid — he threw something at us! A shark — it's coming!"
+He turned back just in time to see the great white hurtling toward him through the water.His eyes widened; his legs gave way...and then suddenly there were hands holding him up and someone shouting: "It's all right, sir, you're safe now!"Harry looked around wildly for Ron, but couldn't see him anywhere. The sea was full of people who seemed to be running away as fast as they could.But what about Ron? Hadn't he seen that thing come after them? Where was he? And where was Hagrid?Wasn't he here somewhere?
+Then Harry saw something else moving across the surface of the waves. It looked like a large gray whale, swimming slowly over their heads.But this wasn't one of those whales that lived far off the coast of Scotland or Norway; this was a killer whale, the kind that came up close to shore sometimes.And this particular killer whale was following another animal.The other creature looked very much smaller than itself. Its head was no bigger than a man's fist, its body little more than a meter long.Its skin was dark blue-black, and glistened wetly in the sunlight.As it swam along behind the huge gray whale, it kept looking anxiously back into the distance. But whatever it was afraid of, it didn't seem to have noticed Harry and Ron.
+
+=== Iteration 6     ==============================
+"I don't know how long it was," said Parrish. "But I do remember a couple of things about that night."He described the shark attack, then continued: "We were both in our underwear when we heard this loud roar behind us.We turned around to see what had happened. There was something out there — a big shadow, maybe fifty feet from one end of the boat to the other.It looked like a giant killer whale or some kind of sea monster. Then we saw its head coming up over the side of the boat.It had these huge teeth...and they came right at us. We started screaming. And then..." He paused for effect. "...the thing went down again."Parish'svoice trailed off as he stared into space. For several seconds he sat quietly, his eyes focused on nothing.Then he seemed to snap back to reality."Anyway, after that I decided not to go swimming anymore until someone told me where all those stories about great white sharks going crazy were true." He laughed nervously."So I never did swim again."
+The story made no sense to Dr. Walker. The man obviously believed every word he'd just spoken.It sounded like a tale of terror straight out of Jaws. But she didn't believe him. She knew better.She could tell by looking at him that he wasn't telling her everything.And why would anyone want to make up such a bizarre story?Why lie about being attacked by a shark?"Harry and Ron are probably still alive," she thought to herself.That much is certain.If they've been missing since last summer, they're either dead or in terrible danger."Thishas to be connected somehow," she muttered aloud.
+"What does?" asked Parrish.
+Walker ignored him."Maybe you can help me find them," she said.
+Parrish gave her a strange look. "How so?"
+"You have access to classified government files, correct?"
+"
+
+=== Iteration 7     ==============================
+"I'm not sure what's going on," said the captain. "But I think we're in trouble."
+The men looked at one another, but no one had any answers for them.They were all alone out here. And they knew it was only a matter of time before something terrible happened to them.They might have been able to survive if they'd just stayed where they were—but that wasn't an option anymore.They needed to get back to civilization as quickly as possible, or else face certain death.
+And so they began their long swim home.* * *
+CHAPTER 3
+There are many ways to die: drowning; suffocation; starvation; exposure to cold water; dehydration; being eaten by predators; infection from parasites or bacteria;disease...and more than you can possibly imagine. But there is also one way to avoid most of those deaths: swimming away from your enemies.That may sound like nonsense, but it works! It has worked throughout history for countless people who've found themselves stranded far from land.They survived because they could use their bodies to create distance between themselves and whatever danger threatened them.It doesn't always work, though. Sometimes the ocean currents carry you too close to shore. Or sometimes a storm blows up unexpectedly.Or maybe you become disoriented when night falls and the sun sets behind clouds.Still, it's worth trying, especially since you don't know how much longer you'll be alive anyway.So swim hard, and keep swimming until you reach safety.Harry and Ron swam toward England with great urgency.They didn't want to spend even a moment longer in this place.But the farther they got from the island, the worse things seemed to get.Their strength was fading rapidly.They felt exhausted, and they couldn't seem to catch their breath properly.In addition, both boys were now suffering from severe cramps in their legs and feet.
+
+=== Iteration 8     ==============================
+I was in the water when I saw it. It was a shark, but not like any other shark I'd ever seen before. The teeth were white instead of black or brown.And its eyes... they weren't normal either. They glowed red at night. When we got closer to shore, it turned away from us and swam toward land."What is that?" asked Hermione. "It looks different.""That's what I thought," said Hagrid quietly. He had been quiet all evening, as if he didn't want anyone to know about his past."But there isn't much time left for me now. And anyway, you'll never believe this..."He looked around at them.There was no one else in the room. "This is where I used to live. This is my home."Hagridtook out a piece of parchment and drew on it. "See? There are two trees outside my window.That's my bedroom over there. See how the sun shines through their branches? Well, last summer, just after sunset, something happened that made me realize how special these trees really are."Harrycould see that Hagrid was looking very nervous; he seemed almost afraid to go on. But finally he did speak again."You remember the first task set by Lord Voldemort — the Triwizard Tournament? You don' t, do you? Well, Dumbledore told me about it.You have to get into three school houses without being caught."Hagrid pointed at each tree. "The leaves are divided exactly halfway down between top and bottom.That means that if you can climb up the trunk of one of those trees, you're right under your house!That's why the Ministry doesn' t bother with them anymore.They've always known which ones are safe."A small smile crossed his face."But I'm getting ahead of myself. So long ago now... Anyway, I was sitting here, watching the sky turn pink and orange above the lake, and suddenly everything went dark.
+
+=== Iteration 9     ==============================
+The boys had been swimming in the ocean when they heard a strange noise. They stopped to investigate, but there was nothing to be seen except for some large fish that were jumping around.Then, from behind them came another sound—the unmistakable roar of a shark!The two friends looked at each other nervously as they swam back toward shore. When they got close enough to see the rocks on the beach, both boys turned and ran up onto land.
+"What's wrong?" asked Hermione Granger, who'd joined them. "Did you hear something?"
+Harry shook his head. He didn't want to tell her what he thought it might have been.Instead, he pointed out into the water."Look," he said quietly.
+Ron stared where he was pointing and then gasped.A giant fin cut through the waves not far away. It rose above the surface like a wall, its edges curling upward and downward, before disappearing again beneath the sea.The creature was enormous... bigger than any shark Harry had ever seen.It circled once over their heads, leaving them feeling shaken and frightened.Then it dived down below the water and disappeared.
+They stood silently staring at one another until Hermione broke the silence. "Well, I'm going home now.Don't wait up!" She waved good-bye to them and set off along the path back to Privet Drive.The three boys watched her go.Then Ron spoke first."I don't think we should stay here too long.We're attracting attention..."
+He took hold of Harry's arm.Harry glanced at him anxiously.If anything else attacked them, they would need help quickly. But just then, someone appeared beside them.Hermione had returned.She walked right past without saying hello or even looking at them.Her eyes were fixed straight ahead.
+"Come on," she whispered urgently. "Let's get inside before anyone sees us."
