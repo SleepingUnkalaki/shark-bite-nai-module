@@ -1,5 +1,5 @@
 # Shark Bite
-A NovelAI AI Module
+A NovelAI AI Module. Shark Bite introduces vivid encounters with sharks into your NovelAI story.
 
 Download: [Shark_Bite_Sleeping_Unkalaki_2021.08.23_40](https://github.com/SleepingUnkalaki/shark-bite-nai-module/releases/download/2021.08.23_40/Shark_Bite_SleepingUnkalaki_2021.08.23_40.module)
 
