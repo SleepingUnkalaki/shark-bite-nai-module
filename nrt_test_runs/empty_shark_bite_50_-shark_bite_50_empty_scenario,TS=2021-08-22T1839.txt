@@ -1,0 +1,124 @@
+=== Parameters ====================================
+                    Label: shark_bite_50_empty_scenario
+                    Model: 6B-v3
+                   Prefix: Shark Bite 2021.08.22_50
+              Temperature: 0.55
+                MaxLength: 40
+                MinLength: 1
+                     TopK: 140
+                     TopP: 0.9
+         TailFreeSampling: 1
+        RepetitionPenalty: 3.5
+   RepetitionPenaltyRange: 1024
+   RepetitionPenaltySlope: 6.57
+              BadWordsIds: []
+              BanBrackets: true
+                 UseCache: false
+                UseString: false
+           ReturnFullText: false
+            TrimResponses: false
+=== Placeholders ==================================
+=== Prompt ========================================
+***
+
+
+=== Iteration 0     ==============================
+The lights in the control room went out. The engine died with a shuddering sigh and they were left floating, bobbing gently in an oily blackness that seemed to stretch on forever. There was no sound but their own breathing as the ship rocked back and forth.
+"What's going on?" Hildemara asked anxiously. "Where are we? What happened?" She looked around at her companions who stood frozen in shock. Their faces reflected their fear of what might be happening next.
+"I don't know," Nellie said softly. Her voice sounded small and frightened. "We're not moving."
+Hildemara felt panic rising inside her. They could float for hours without being able to see anything. She knew she couldn't stay calm under these conditions; it would only make matters worse. She had to act quickly before she lost all self-control. She stepped forward into the darkness. "Nellie, get your knife. We have to find our way through this mess."
+"But—"
+She cut off the rest of Nellie's protest by pushing past her and heading down the passageway toward the bow. At least if there was some light she'd be able to see where she was going. A faint glow began coming from somewhere ahead. As she moved closer, she saw more dimly lit corridors branching off in every direction.
+Ahead, a door opened onto a long corridor that stretched away in both directions. Light spilled out across the deck. In front of them lay a metal walkway running along the side of the hull. It looked like one of those catwalks used to repair ships during storms or when they were taking water in heavy seas. But instead of walking over it, Hildemara started climbing up the ladderlike steps until she reached the top. From there she walked along the narrow rail until she came to another set of stairs leading upward. She climbed them as well. When she finally emerged onto the upper level, she found herself standing high above the ocean, looking out upon the dark waters far below.
+Behind her, she heard the others scrambling up after her. The entire crew was now gathered together on the open platform. The men stood huddled behind her while the women stared out over the railing. Several of the men held lanterns so they wouldn't lose their footing on the wet rungs.
+It took several minutes for everyone to reach the top. By then the sun was beginning its descent. Hildemara glanced back to see how much time remained. Although she didn't know exactly what was happening, she guessed that the creature must have come ashore sometime after midnight. She also realized that with the moon gone, it would soon be too dark tosee anything.
+They waited silently atop the bridge. After what seemed like an eternity, the lights went out again. This time the ship lurched violently. Everyone cried out in alarm.
+
+=== Iteration 1     ==============================
+The water was freezing. She had never been so cold in her life, and she couldn't stop shivering even though the air temperature was well above freezing.The wind whipped around them as they swam toward shore, but it didn't help much because the waves were crashing over their heads with such force that she could hardly see where they were going.It was like swimming through a blizzard. The water seemed to be trying to drag her under at every stroke.
+She looked back at him. He was right behind her now.They'd made good time. It wouldn't take long for them to reach land. She hoped he would hurry up and get out of there before some other stupid idiot jumped into the sea after them.They needed to find shelter soon or else...
+He's not coming! He won't make it!"
+"Shut up," Eileen snapped."I know what I'm doing."
+Her voice sounded strange to her ears, high-pitched and shrill. Her teeth chattered together."You're crazy," she said, although she wasn't sure if it came out as words or just an unintelligible gurgle.
+His hand grabbed hers."Hold on tight."
+Eileen did as instructed. His grip felt strong enough to hold onto forever.But then his fingers slipped off hers and went limp.Something slammed against her face, knocking her head forward hard enough to send stars flashing across her vision.Water filled her mouth.She coughed and sputtered, desperately trying to breathe.Then something hit her legs again—something heavy this time.
+And then nothing.
+All sensation left her body.All sound vanished from her consciousness. Everything became blackness. Darkness enveloped everything. Even the darkness itself faded away until only one thought remained: Don't let go.Don't let go.Please don't let go.When she opened her eyes, all she saw was white.White everywhere except for two dark spots directly ahead of her.
+One was Grayson's lifeless form floating next to her.The other was a shark fin cutting through the surface of the ocean.Its triangular shape grew larger by the second, until finally its entire body emerged from beneath the waves.A massive dorsal fin cut through the water like a knife blade slicing through butter. Its maw glistened with blood.
+Blood?
+Not human blood.Giant fish blood.
+
+=== Iteration 2     ==============================
+"I'm not going to take any chances," he said. "We're going back down."
+She didn't argue, and the two of them made their way toward the ladder.The boat was rocking slightly as they neared it, but there were no signs that anyone had been on board in a while. They climbed aboard and took up positions at either end of the cabin.They waited for several minutes, then heard what sounded like heavy footsteps coming from belowdecks. The steps stopped just above the floorboards.Then someone began climbing out through the hatchway—a man with long hair tied behind his head. He stepped onto the deck wearing a gray suit and carrying an overnight bag over one shoulder.He looked around slowly before raising his eyes to meet Leandro's.Leandro kept his gun trained on him until he recognized the face.
+"You?"
+Rafael nodded. His voice was calm, almost indifferent.
+"What are you doing here?How did you find us?"
+"Your father hired me to help you get away." Rafael turned to look at Raul. "And I found your sister instead.""My sister is dead!" Raul shouted. "Her body washed ashore yesterday afternoon! What do you want from me now?"
+"Nothing, really.Just wanted to see how things went with you."
+Rafael opened his suitcase and pulled out some clothes. Then he walked into the bathroom and started taking off his wet suit."Where are we going?" Leandro asked.
+"Back home, where else?" Rafael answered. "To my place. You'll be safe there."
+"Safe?From whom?""Don't worry about it. Just let me know when you're ready."
+Leandro glanced at Raul again. "Do you have enough money to pay for our passage?""Yes. But first, tell me why you came after us."
+"Because you killed my brother-in-law."
+Rafael shook his head."No, you got it all wrong. My brother-in-law died trying to save me. It was only because of him that I survived."
+Raul stared at him blankly."It's true," Rafael continued. "His name was Juan Lopez. We worked together at the same construction site in Mexico City.One day, he told me he'd seen something strange in the ocean. A creature...something big..." Rafael paused. "A giant shark."
+"So you followed him," Raul said.
+
+=== Iteration 3     ==============================
+"You're right. We should have taken the boat."
+They stood in silence for a moment, staring at each other and then back out to sea. "Well," said Leandro finally,"we can't just stand here all day waiting to see if he comes up again. Let's get going." He grabbed his gear and started down the path toward the beach.Leandro was glad they'd come on foot—the climb would be too much with their equipment. The trail ran along the edge of the cliff above the waterline.It looked as though it had been used recently by fishermen or hikers who wanted to avoid making noise on the rocks below.The path was narrow but well-defined;it seemed like an easy hike even without their heavy packs.But that didn't mean there weren't any surprises lurking around every corner.As soon as they reached the shoreline, Leandro spotted something bobbing in the surf.He pointed and called out, "Look!"A large object floated near the surface about twenty feet from the base of the cliffs.It looked like a small log with its end cut off.
+"What is it?" asked Luis."I don't know. It looks kind of familiar... Wait! I think it's one of those floating docks we saw when we were fishing yesterday."
+Luis nodded thoughtfully. "
+
+=== Iteration 4     ==============================
+"I'm going to go get my gear," she said. "Don't move." She stood up and walked down the dock, past her father's boat, into the water.He was sitting on a bench in his waders watching the waves roll by with an expression of profound bemusement.She had never seen him like this before. He looked so old.His skin hung loosely from his face; he seemed smaller than usual. She wondered if it was because they were both standing still.Or maybe it was just that the sun shone through the trees behind them. It made everything look washed out."Are you okay?" she asked.
+"You're not coming back?" His voice sounded raspy.
+"No. I have some things to do here first.Then I'll come home."
+"Okay," he said. "Be careful."
+"Of course I will. But what about your fishing? You can't fish without me.""That's all right," he said. "We've got plenty of time for that later."
+"What are we supposed to do now?""Watch the waves."
+The tide came in slowly, but after ten minutes or so it began to pick up speed. The water rose over their ankles as the current pulled at them.They sat side by side on the edge of the pier looking out across the bay toward Long Island Sound. The wind blew off the ocean, stirring the tops of the reeds along shore.A few gulls flew overhead, crying shrilly, searching for food.Lena watched them disappear beyond the breakwater and then turned back to watch the waves rolling in.A sudden gust knocked one against the pilings where Lena was sitting.It rocked the boat slightly, knocking loose several bottles of wine that fell into the water with a loud splash.When the wave receded again, she saw something floating near the bottom.It took her a moment to recognize it:a pair of sunglasses.Her mother's glasses.She stared down at them,wondering how long it would take for them to sink. Then she realized there wasn't enough light left to see anything anymore anyway.All she could make out was a faint shadow moving beneath the surface.After another hour, the sky began to darken. Lying on the deck of the boat, she tried to sleep, but it didn't work.
+
+=== Iteration 5     ==============================
+"How many people have you killed?" Shelly asked. "I know they were your friends, but how do we know that? You could be the one who's doing this."Shelly was right—she had no way of knowing if he was a good guy or not.The only thing she knew for sure was that he didn't look like someone who would attack her and her family without reason.The man looked scared out of his mind. He'd never even tried to hurt them before.
+He shook his head as though trying to clear it from his thoughts."It doesn't matter now," he said. "We need to get off this island so I can make arrangements to take care of my friend."
+"You mean your other friend?"Jalen nodded in agreement with what Shelly just said."Your father is going to die," Jalen said. "If we don't leave soon, he'll be dead by morning.""What are you talking about?" The man sounded confused. "My dad isn't sick."
+"No," Shelly agreed."But he will be very shortly unless we stop him from killing himself. We're all going to go together."
+"Go where? There's nothing left on this island except death!"
+"There's another boat waiting at the dock when we return. It has enough gas to get us back home safely."
+"And how am I supposed to find it?""Follow me," Jaleb said. "I'm going to show you."They followed him up the path toward the house.When they got there, the door opened and their father stepped outside. His face was pale and his eyes bloodshot. He seemed unsteady on his feet.As they approached, he stumbled over to a large rock near the edge of the cliff. As he stood next to it, he began digging into the ground.
+"Dad!What are you doing?!"Jaleb shouted. "Stop it!"His father ignored him and continued working until he uncovered something buried beneath several inches of dirt.He pulled out an object wrapped in cloth.
+
+=== Iteration 6     ==============================
+"What are you doing?" said the first officer, as he watched his friend pull on a pair of rubber gloves. "You can't go out there."Alyson ignored him and pulled her mask over her head. She looked at the officer in surprise, then nodded to herself. The first officer shrugged and went back inside the cabin.Alyson grabbed one of the life jackets from the rack near the door and put it on before stepping into the water.As she stepped onto the boat's deck, she felt something brush against her legs. When she turned around, she saw that the shark was still following them.A moment later, it dove under the surface of the ocean. Alyson followed its movements with her eyes until she lost sight of it beneath the waves.When she reached the end of the dock,Alyson jumped off the boat and ran toward shore, holding the life jacket tightly against her chest.As she walked through the sand, she kept looking behind her for any sign of the great white shark. When she finally made it to the beach, she collapsed onto the warm wet sand.A few minutes later, the sun began to set in the sky above.
+She lay there staring up at the darkening sky while the sound of crashing surf filled her ears. In the distance,she could hear people yelling about sharks being spotted all along the coast. As night fell, Alyson decided that she had better find shelter somewhere.She got to her feet and started walking down the beach when suddenly she heard someone call her name.It took several seconds for her to realize who it was.
+"I'm sorry," she whispered as she turned around. "Please don't be mad."Theman standing next to her smiled gently.
+"No need to apologize, Alyson." He extended his hand. "My name is Dr. Joshua Jaffe."He shook her hand firmly. "Pleased to meet you."
+"Likewise," she replied. "But why did you come after me? I mean...why didn't you just leave me alone?"Jaffe gave her a reassuring smile. "Because we've been watching your house ever since you moved here. We knew what was going to happen today.
+
+=== Iteration 7     ==============================
+"We're gonna have to get the engine started," said Alex. "I'm not going out there in this boat without an engine."Alex and Alyssa had been working on their own boat, a twenty-footer that they'd bought from another fisherman who was headed south for Christmas with his family.They were supposed to meet up later at the marina where they planned to spend the night, but he never showed.She called him once during her trip home, and she could hear music blaring through the phone.She hung up before asking about it.
+When she got back to shore, she found a note: He's dead.They say I killed him. She drove straight to the police station to report what happened. The officer gave her a ride to the harbor, where she pulled into the slip next to his boat.It was still tied down.The cops took her statement, then told her she needed to go see a lawyer. That was when she knew something wasn't right.
+
+=== Iteration 8     ==============================
+"The thing is, we've got to do it. We can't let him go."
+He was a little drunk and his voice wasn't as steady as he'd like.He didn't want the girl to hear that she should be afraid of her father's killer. "You're not thinking clearly," he said.
+She shook her head slowly from side to side.Her eyes were clear but sad. "I'm sorry you feel that way about me, Dad. I know what happened. But there's something else going on here.Something bigger than us. It has nothing to do with me or my mother. You need to listen to me." She took another step toward him. He backed up instinctively.The girl seemed almost transparent in front of him now;he could see every detail of her face and body through her skin. Her hair hung loose around her shoulders.The top buttons of her blouse had popped open at some point during their conversation. And even though they stood less than ten feet apart, he felt alone again.As if she were an ocean away, miles out into the Atlantic where no one would ever find them.The fear came back then.It was so strong it made his stomach turn over.
+But this time he fought it down. "What are you talking about?"he asked. "There isn't anything bigger than us."
+"Yes, there is." The girl looked directly into his eyes. "And we have to stop it before anyone else gets hurt."That brought him back. "Who? What are you—"
+"Please don't make me say any more right now." She put her hand against his chest.His heart pounded harder. "Just trust me—that's all I ask."
+His mouth went dry. "Trust you? Are you crazy?"
+"No... just tired."She reached for the door handle. "Come with me. Please."When he hesitated, she turned quickly and opened the car door. "Get in!"she snapped. "Now!"She slid onto the seat beside him and pulled the door closed behind her.He watched her reach across the gearshift and pull a small pistol from under the dash.He sat frozen in place, staring straight ahead. He tried to think. His mind raced. Then he remembered the gun. "Wait! Where did you get that?"
+
+=== Iteration 9     ==============================
+"It's just a fucking shark," the man said. "I can't believe you're still worried about it."
+The woman stood up, and her husband followed suit.She stared at him for a moment before turning to face his friend.
+"You think I'm crazy? You want me to go out there with my spear gun?"
+He shrugged."No, but if you don't do something soon, that thing is going to kill us all." He pointed toward the ocean. "Look what he did last time!"The woman turned back around. She was an attractive woman in her mid-thirties, maybe early forties. Her hair fell down past her shoulders, and she wore no makeup.The man looked like he could have been twenty years younger than her. His sandy blond hair hung over one eye as he glared at the water.
+The sun had begun its descent below the horizon,leaving only light from above the trees and clouds of mist rising off the surface of the lake. The two men were standing on a small dock near the shoreline.A wooden pier extended into the water. It was made of old wood planks and timbers salvaged from several boats found along the shores of Lake Superior.A boat house sat directly behind them,and they could see three other docks extending into the water. All of them were empty now.A large sailboat lay overturned on one of those docks,its hull broken open and scattered across the decking.
+They both peered through their binoculars and scanned the waters.They saw nothing unusual,but neither man wanted to be caught by surprise when the creature came ashore again.
+"What are we waiting for?"the man asked. "Let's get this done."His wife shook her head and walked away from them.When she reached the edge of the dock,she stopped and leaned forward,her elbows resting against the railings.Her husband joined her and handed her his rifle.
+"You ready?"he asked.
+She nodded and took aim.Then she lowered her arm and pulled the trigger. A deafening roar echoed across the lake.Several seconds later,a plume of smoke rose from the center of the water where she'd fired.Then another shot rang out,followed by yet another explosion.
+Both men watched as the white cloud expanded,growing larger until it obscured most of the sky.
