@@ -20,6 +20,7 @@
 ![Shark_Bite_Author_Influences](https://user-images.githubusercontent.com/89365381/130378709-f59558da-0715-4c78-a4ad-d512252a6d61.png)
 
 ### Example Prompts
+More prompts may be found in `nrt_test_runs/`
 Prompt:
 ```
 ***
